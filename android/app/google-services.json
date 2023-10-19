@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453875101764",
+    "project_id": "ecommaers",
+    "storage_bucket": "ecommaers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453875101764:android:56b6fa1d5c0ec5160b8c11",
+        "android_client_info": {
+          "package_name": "com.example.e_commaers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453875101764-hmnb17mfn1ms07jk1fqep6gckettvkih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRwQthUfGLvnD0zMYzGmbW9da7JuYoXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453875101764-hmnb17mfn1ms07jk1fqep6gckettvkih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
